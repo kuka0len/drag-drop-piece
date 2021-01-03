@@ -1,0 +1,17 @@
+.square {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.black-square {
+  background-color: rgb(54, 141, 141);
+}
+.white-square {
+  background-color: rgb(177, 226, 226);
+}
+.piece {
+  height: 150px;
+  width: 150px;
+}
